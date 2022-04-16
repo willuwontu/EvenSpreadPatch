@@ -1,5 +1,4 @@
 ﻿using HarmonyLib;
-using UnboundLib;
 using UnityEngine;
 
 namespace WWC.Patches

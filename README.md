@@ -1,3 +1,3 @@
-# BlockForcePatch
+# EvenSpreadPatch
 
-Fixes `Block.forceToAdd` and `Block.forceToAddUp`.
+Fixes `Gun::evenSpread`.

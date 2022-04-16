@@ -1,10 +1,10 @@
 {
-	"name":"BlockForcePatch",
+	"name":"EvenSpreadPatch",
 	"author_name":"willuwontu",
-    "version_number":"1.0.1",
-	"website_url":"https://github.com/willuwontu/BlockForcePatch",
+    "version_number":"0.0.0",
+	"website_url":"https://github.com/willuwontu/EvenSpreadPatch",
 	"displayName":"BlockForcePatch",
-	"description":"Fixes issues with some block stats not working properly.",
+	"description":"Patches the even spread stat to make it work.",
 	"dependencies": [
 		"BepInEx-BepInExPack_ROUNDS-5.4.1100"
 	]
